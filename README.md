@@ -1,0 +1,1 @@
+We got a one year subscription in datacamp.There was a system of assesing our progress via a leaderboard,and after several months,we were given the progress report dataset with further information and our mentor told us to practice our python data analysis skill with it. 
